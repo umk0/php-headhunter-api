@@ -1,11 +1,11 @@
 # HeadHunter.ru API library (in process) (guzzle^7.8)
 
-[![Code Climate](https://codeclimate.com/github/seregazhuk/php-headhunter-api/badges/gpa.svg)](https://codeclimate.com/github/seregazhuk/php-headhunter-api)
-[![Test Coverage](https://codeclimate.com/github/seregazhuk/php-headhunter-api/badges/coverage.svg)](https://codeclimate.com/github/seregazhuk/php-headhunter-api/coverage)
-[![Build Status](https://travis-ci.org/seregazhuk/php-headhunter-api.svg)](https://travis-ci.org/seregazhuk/php-headhunter-api)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/seregazhuk/php-headhunter-api/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/seregazhuk/php-headhunter-api/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/seregazhuk/headhunter-api/v/stable)](https://packagist.org/packages/seregazhuk/headhunter-api)
-[![Total Downloads](https://poser.pugx.org/seregazhuk/headhunter-api/downloads)](https://packagist.org/packages/seregazhuk/headhunter-api)
+[![Code Climate](https://codeclimate.com/github/umk0/php-headhunter-api/badges/gpa.svg)](https://codeclimate.com/github/umk0/php-headhunter-api)
+[![Test Coverage](https://codeclimate.com/github/umk0/php-headhunter-api/badges/coverage.svg)](https://codeclimate.com/github/umk0/php-headhunter-api/coverage)
+[![Build Status](https://travis-ci.org/umk0/php-headhunter-api.svg)](https://travis-ci.org/umk0/php-headhunter-api)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/umk0/php-headhunter-api/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/umk0/php-headhunter-api/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/umk0/headhunter-api/v/stable)](https://packagist.org/packages/umk0/headhunter-api)
+[![Total Downloads](https://poser.pugx.org/umk0/headhunter-api/downloads)](https://packagist.org/packages/umk0/headhunter-api)
 
 Provides a friendly API interface for HeadHunter (hh.ru) service.
 
@@ -42,7 +42,7 @@ The recommended way to install this library is via [Composer](https://getcompose
 [New to Composer?](https://getcomposer.org/doc/00-intro.md)
 
 ```
-composer require seregazhuk/headhunter-api
+composer require umk0/headhunter-api
 ```
 
 ## Quick Start
