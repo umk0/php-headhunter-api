@@ -1,6 +1,6 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi;
+namespace umk0\HeadHunterApi;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request as GuzzleRequest;
