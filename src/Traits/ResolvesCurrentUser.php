@@ -1,11 +1,11 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\Traits;
+namespace umk0\HeadHunterApi\Traits;
 
-use seregazhuk\HeadHunterApi\EndPoints\Me;
-use seregazhuk\HeadHunterApi\EndPoints\EndpointsContainer;
-use seregazhuk\HeadHunterApi\Exceptions\HeadHunterApiException;
-use seregazhuk\HeadHunterApi\Exceptions\WrongEndPointException;
+use umk0\HeadHunterApi\EndPoints\Me;
+use umk0\HeadHunterApi\EndPoints\EndpointsContainer;
+use umk0\HeadHunterApi\Exceptions\HeadHunterApiException;
+use umk0\HeadHunterApi\Exceptions\WrongEndPointException;
 
 /**
  * Trait ResolvesCurrentUser
