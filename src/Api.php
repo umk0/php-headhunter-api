@@ -1,8 +1,8 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi;
+namespace umk0\HeadHunterApi;
 
-use seregazhuk\HeadHunterApi\EndPoints\EndpointsContainer;
+use umk0\HeadHunterApi\EndPoints\EndpointsContainer;
 
 class Api
 {
