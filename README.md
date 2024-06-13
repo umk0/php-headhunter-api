@@ -1,4 +1,4 @@
-# HeadHunter.ru API library (in process)
+# HeadHunter.ru API library (in process) (guzzle^7.8)
 
 [![Code Climate](https://codeclimate.com/github/seregazhuk/php-headhunter-api/badges/gpa.svg)](https://codeclimate.com/github/seregazhuk/php-headhunter-api)
 [![Test Coverage](https://codeclimate.com/github/seregazhuk/php-headhunter-api/badges/coverage.svg)](https://codeclimate.com/github/seregazhuk/php-headhunter-api/coverage)
@@ -50,7 +50,7 @@ composer require seregazhuk/headhunter-api
 ```php
 // You may need to amend this path to locate composer's autoloader
 require('vendor/autoload.php');
-use seregazhuk\HeadHunterApi\Api;
+use umk0\HeadHunterApi\Api;
 
 /**
  * Token is optional. Your need token only
