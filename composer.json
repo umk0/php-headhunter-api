@@ -1,5 +1,5 @@
 {
-    "name": "seregazhuk/headhunter-api",
+    "name": "umk0/headhunter-api",
     "description": "PHP library to interact with hh.ru API",
     "keywords": [
         "php",
@@ -21,15 +21,15 @@
     },
     "authors": [
         {
-            "name": "Sergey Zhuk",
-            "email": "seregazhuk88@gmail.com",
-            "role": "Developer"
+            "name": "uMk0",
+            "email": "me@umk0.ru",
+            "role": "Forker"
         }
     ],
     "autoload": {
         "psr-4": {
-            "seregazhuk\\HeadHunterApi\\": "src/",
-            "seregazhuk\\tests\\": "tests/"
+            "umk0\\HeadHunterApi\\": "src/",
+            "umk0\\tests\\": "tests/"
         }
     }
 }
