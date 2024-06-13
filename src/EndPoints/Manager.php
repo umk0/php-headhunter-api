@@ -1,8 +1,8 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\EndPoints;
+namespace umk0\HeadHunterApi\EndPoints;
 
-use seregazhuk\HeadHunterApi\Traits\ResolvesCurrentUser;
+use umk0\HeadHunterApi\Traits\ResolvesCurrentUser;
 
 class Manager extends Endpoint
 {
