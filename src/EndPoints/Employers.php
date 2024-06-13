@@ -1,10 +1,10 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\EndPoints;
+namespace umk0\HeadHunterApi\EndPoints;
 
-use seregazhuk\HeadHunterApi\Traits\EmployerManagers;
-use seregazhuk\HeadHunterApi\Traits\HasView;
-use seregazhuk\HeadHunterApi\Traits\Searchable;
+use umk0\HeadHunterApi\Traits\EmployerManagers;
+use umk0\HeadHunterApi\Traits\HasView;
+use umk0\HeadHunterApi\Traits\Searchable;
 
 class Employers extends Endpoint
 {
