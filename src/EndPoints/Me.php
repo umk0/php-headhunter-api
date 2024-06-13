@@ -1,6 +1,6 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\EndPoints;
+namespace umk0\HeadHunterApi\EndPoints;
 
 class Me extends Endpoint
 {
