@@ -1,10 +1,10 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\EndPoints;
+namespace umk0\HeadHunterApi\EndPoints;
 
-use seregazhuk\HeadHunterApi\Traits\HasView;
-use seregazhuk\HeadHunterApi\Traits\HasVisibilityList;
-use seregazhuk\HeadHunterApi\Traits\HasSimilarVacancies;
+use umk0\HeadHunterApi\Traits\HasView;
+use umk0\HeadHunterApi\Traits\HasVisibilityList;
+use umk0\HeadHunterApi\Traits\HasSimilarVacancies;
 
 class Resumes extends Endpoint
 {
