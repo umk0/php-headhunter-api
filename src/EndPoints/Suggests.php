@@ -1,8 +1,8 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\EndPoints;
+namespace umk0\HeadHunterApi\EndPoints;
 
-use seregazhuk\HeadHunterApi\Exceptions\HeadHunterApiException;
+use umk0\HeadHunterApi\Exceptions\HeadHunterApiException;
 
 /**
  * Class Suggests
@@ -15,7 +15,7 @@ use seregazhuk\HeadHunterApi\Exceptions\HeadHunterApiException;
  * @method areas(string $text, string $locale = 'RU')
  * @method vacancySearchKeyword(string $text, string $locale = 'RU')
  *
- * @package seregazhuk\HeadHunterApi\EndPoints
+ * @package umk0\HeadHunterApi\EndPoints
  */
 class Suggests extends Endpoint
 {
