@@ -1,8 +1,8 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\EndPoints;
+namespace umk0\HeadHunterApi\EndPoints;
 
-use seregazhuk\HeadHunterApi\Traits\HasView;
+use umk0\HeadHunterApi\Traits\HasView;
 
 class Comments extends Endpoint
 {
