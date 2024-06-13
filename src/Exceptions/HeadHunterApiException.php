@@ -1,6 +1,6 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\Exceptions;
+namespace umk0\HeadHunterApi\Exceptions;
 
 class HeadHunterApiException extends \Exception
 {
