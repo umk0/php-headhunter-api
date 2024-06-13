@@ -1,8 +1,8 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\EndPoints;
+namespace umk0\HeadHunterApi\EndPoints;
 
-use seregazhuk\HeadHunterApi\Traits\HasAll;
+use umk0\HeadHunterApi\Traits\HasAll;
 
 class Regions extends Endpoint
 {
