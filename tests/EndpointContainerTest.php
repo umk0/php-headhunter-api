@@ -1,15 +1,15 @@
 <?php
 
-namespace seregazhuk\tests;
+namespace umk0\tests;
 
 use Mockery;
 use Mockery\MockInterface;
 use PHPUnit_Framework_TestCase;
-use seregazhuk\HeadHunterApi\Request;
-use seregazhuk\HeadHunterApi\EndPoints\Vacancies;
-use seregazhuk\HeadHunterApi\EndPoints\EndpointsContainer;
-use seregazhuk\HeadHunterApi\Exceptions\HeadHunterApiException;
-use seregazhuk\HeadHunterApi\Exceptions\WrongEndPointException;
+use umk0\HeadHunterApi\Request;
+use umk0\HeadHunterApi\EndPoints\Vacancies;
+use umk0\HeadHunterApi\EndPoints\EndpointsContainer;
+use umk0\HeadHunterApi\Exceptions\HeadHunterApiException;
+use umk0\HeadHunterApi\Exceptions\WrongEndPointException;
 
 class EndpointsContainerTest extends PHPUnit_Framework_TestCase
 {
