@@ -1,6 +1,6 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\Traits;
+namespace umk0\HeadHunterApi\Traits;
 
 trait HasAll
 {
