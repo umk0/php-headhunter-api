@@ -1,14 +1,14 @@
 <?php
 
-namespace seregazhuk\HeadHunterApi\EndPoints;
+namespace umk0\HeadHunterApi\EndPoints;
 
-use seregazhuk\HeadHunterApi\Request;
-use seregazhuk\HeadHunterApi\Exceptions\HeadHunterApiException;
-use seregazhuk\HeadHunterApi\Exceptions\WrongEndPointException;
+use umk0\HeadHunterApi\Request;
+use umk0\HeadHunterApi\Exceptions\HeadHunterApiException;
+use umk0\HeadHunterApi\Exceptions\WrongEndPointException;
 
 /**
  * Class EndpointsContainer
- * @package seregazhuk\HeadHunterApi\EndPoints
+ * @package umk0\HeadHunterApi\EndPoints
  *
  * @property Vacancies $vacancies
  * @property Employers $employers
